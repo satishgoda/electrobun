@@ -26,6 +26,11 @@ Visit <a href="https://blackboard.sh/electrobun/">https://blackboard.sh/electrob
 - Even smaller app updates as small as 14KB (using bsdiff it only downloads tiny patches between versions)
 - Provide everything you need in one tightly integrated workflow to start writing code in 5 minutes and distribute in 10.
 
+## Architecture and Design Docs
+
+- [Architecture Overview](./ARCHITECTURE.md)
+- [Gestalt Design Principles](./DESIGN_PRINCIPLES.md)
+
 ## Apps Built with Electrobun
 - [24agents](https://github.com/jhsu/24agents) - Hyperprompter
 - [act-track-ai](https://github.com/IrdanGu/act-track-ai) - personal desktop productivity tracker
