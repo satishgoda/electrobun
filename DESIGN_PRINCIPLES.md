@@ -107,12 +107,12 @@ That closure is especially visible in release packaging, where the framework is 
 
 If you are new to the codebase, read it in this order:
 
-1. `/home/runner/work/electrobun/electrobun/README.md`
-2. `/home/runner/work/electrobun/electrobun/ARCHITECTURE.md`
-3. `/home/runner/work/electrobun/electrobun/BUILD.md`
-4. `/home/runner/work/electrobun/electrobun/CEF.md`
-5. `/home/runner/work/electrobun/electrobun/package/src/bun/index.ts`
-6. `/home/runner/work/electrobun/electrobun/package/src/cli/index.ts`
-7. `/home/runner/work/electrobun/electrobun/package/src/shared/rpc.ts`
+1. `./README.md`
+2. `./ARCHITECTURE.md`
+3. `./BUILD.md`
+4. `./CEF.md`
+5. `./package/src/bun/index.ts`
+6. `./package/src/cli/index.ts`
+7. `./package/src/shared/rpc.ts`
 
 That path preserves the gestalt of the system: first the visible whole, then the internal relationships, then the detailed mechanics.

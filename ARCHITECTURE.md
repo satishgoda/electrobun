@@ -204,13 +204,13 @@ UpdateElementStyle(bundle, $bgColor="#64748B", $fontColor="#FFFFFF", $borderColo
 
 These files are the most important anchors for the diagrams above:
 
-- `/home/runner/work/electrobun/electrobun/package/src/bun/index.ts`
-- `/home/runner/work/electrobun/electrobun/package/src/browser/index.ts`
-- `/home/runner/work/electrobun/electrobun/package/src/cli/index.ts`
-- `/home/runner/work/electrobun/electrobun/package/src/shared/rpc.ts`
-- `/home/runner/work/electrobun/electrobun/package/src/native/macos/nativeWrapper.mm`
-- `/home/runner/work/electrobun/electrobun/package/src/native/win/nativeWrapper.cpp`
-- `/home/runner/work/electrobun/electrobun/package/src/native/linux/nativeWrapper.cpp`
-- `/home/runner/work/electrobun/electrobun/package/src/extractor/main.zig`
-- `/home/runner/work/electrobun/electrobun/package/src/launcher/main.zig`
-- `/home/runner/work/electrobun/electrobun/package/build.ts`
+- `./package/src/bun/index.ts`
+- `./package/src/browser/index.ts`
+- `./package/src/cli/index.ts`
+- `./package/src/shared/rpc.ts`
+- `./package/src/native/macos/nativeWrapper.mm`
+- `./package/src/native/win/nativeWrapper.cpp`
+- `./package/src/native/linux/nativeWrapper.cpp`
+- `./package/src/extractor/main.zig`
+- `./package/src/launcher/main.zig`
+- `./package/build.ts`
